@@ -1,4 +1,4 @@
-# psnl_portfolio
+# myPortfolio
 
 The Project **a personal portfolio** created by *Yours Sincerely* during our js clinic class at *<https://www.web3bridge.com/>* **Web3Bridge** on one of  *my quest for knowledge*
 
